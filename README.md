@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/Kravmaga01/Kravmaga01/blob/main/header.png"  width="200" height="200"  object-fit: contain />
+<img src="https://github.com/Kravmaga01/Kravmaga01/blob/main/header.png"  width="350" height="200"  object-fit: contain />
 <!--
 **Kravmaga01/Kravmaga01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
