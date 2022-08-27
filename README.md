@@ -1,5 +1,5 @@
 
-<img src ="https://github.com/Kravmaga01/Kravmaga01/blob/main/header.png">
+<img src ="https://github.com/Kravmaga01/Kravmaga01/blob/main/header.png" with:100% heigth:100px>
 <!--
 **Kravmaga01/Kravmaga01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
